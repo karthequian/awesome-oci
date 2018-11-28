@@ -1,7 +1,7 @@
 # awesome-oci
-A curated list of awesome resources for OCI- FAQ's, blogs, docs and moar! Find a cool tutorial about Oracle Cloud Infra that you liked? 
+A curated list of awesome resources for OCI- FAQ's, blogs, docs and moar! 
 
-Add it here via a PR or create an issue with a link, and I'll be happy to add it.
+Find a cool tutorial about Oracle Cloud Infra that you liked, that's not here? ADD IT! PR me or create an issue with a link, and I'll be happy to add it.
 
 # OKE Product Related
 * [Official OKE Docs](https://docs.cloud.oracle.com/iaas/Content/ContEng/Concepts/contengoverview.htm)
